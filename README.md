@@ -23,4 +23,4 @@ This is a simple web application for managing tasks. The app allows users to reg
 1. Clone the repository:
 
    ```bash
-   git clone (https://github.com/SilasAurelius/Bootstrap-Task-Management-Application.git)
+   git clone https://github.com/SilasAurelius/Bootstrap-Task-Management-Application.git
